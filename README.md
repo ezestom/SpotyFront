@@ -1,1 +1,1 @@
-# SpotyFront
+# SpotiFront
